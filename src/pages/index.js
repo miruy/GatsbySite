@@ -129,18 +129,18 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
+      <title>자기소개서</title>
       <h1 style={headingStyles}>
-        Congratulations
-        <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
+          Congratulationsddd
+          <br />
+          <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
         <span role="img" aria-label="Party popper emojis">
-          🎉🎉🎉
+        🎉🎉🎉
         </span>
-      </h1>
-      <p style={paragraphStyles}>
+        </h1>
+        <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
-        update in real-time.{" "}
+        update in real-time.{" "}add .
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>
